@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+body{
+  text-align: center;
+  background-color: antiquewhite;
+  color: aqua;
+}
+button{
+  color: #000;
+  background-color: aqua;
+}
+.cont{
+  padding: 100px;
+}
+input{
+  width: 400px; 
+  margin-bottom: 20px;
+  
+}
+.image{
+  display: inline-block;
+  align-items: center;
+  align-content: center;
+  
+
+}
+
+
+
